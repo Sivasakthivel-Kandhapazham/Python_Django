@@ -1,0 +1,14 @@
+SNo,Property Type,Location,Price,Number of Bedrooms,Bathrooms,Square Footage
+1,"Movable property","Chennai",1000000,2,2,1524
+2,"Private property","Chennai",1500000,3,2,1826
+3,"Public property","Madurai",800000,2,1,1200
+4,"Private property","Trichy",1300000,3,3,1622
+5,"Movable property","Chennai",3000000,2,2,1600
+6,"Immovable property","Chennai",5000000,5,3,3000
+7,"Private property","Chennai",4000000,2,2,1200
+8,"Immovable property","Madurai",2000000,4,3,2528
+9,"Public property","Trichy",900000,2,2,1522
+10,"Tangible property","Chennai",7000000,2,1,850
+11,"Villa","Chennai",9000000,3,2,1222
+12,"Villa","Chennai",7000000,2,1,850
+
